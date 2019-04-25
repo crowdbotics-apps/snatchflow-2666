@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT snatchflow_2666.wsgi:application
